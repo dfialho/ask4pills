@@ -1,0 +1,12 @@
+{
+  "users": { },
+  "telegram": {
+    "token": "token",
+    "allowed_chats": []
+  },
+  "lab": {
+    "username": "example@email.com",
+    "password": "password",
+    "sns_email": "sns@email.com"
+  }
+}
